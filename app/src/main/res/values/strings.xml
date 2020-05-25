@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Examen_UPAX</string>
+    <string name="title_activity_actividad__mapa">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
